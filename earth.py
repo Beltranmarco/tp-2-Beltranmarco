@@ -1,8 +1,6 @@
-
 def earth():
 	x="Barbados"
 	y="Bangladesh"
 	print(f"The result of {x} comes first in the dictionary than {y} is {x<y}.")
 	print(f"The result of {y} comes first in the dictionaary than {x} is {x>y}. ")
-earth()
 
